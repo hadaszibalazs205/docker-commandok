@@ -188,7 +188,7 @@ pwd                           --> print work directory aktuális utvonal ahol va
 
 ls -l /proc/
 
-cd                            --> chance directory
+cd                            --> change directory
 
 cd ..                         --> vissza a szülökönyvtárhoz
  
